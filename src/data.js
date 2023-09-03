@@ -158,9 +158,9 @@ export const CVData = {
       },*/
       {
         type: 'tag-list',
-        title: 'Skills Proficiency',
+        title: 'Compétences techniques',
         icon: 'rocket',
-        items: ['Java', 'Solidity', 'React', 'Angular', 'SQL', 'Hardhat', 'Truffle']
+        items: ['Java', 'Solidity', 'React', 'Angular', 'Next.js', 'SQL', 'Hardhat', 'Truffle', 'Git']
       },
       {
         type: 'tag-list',
