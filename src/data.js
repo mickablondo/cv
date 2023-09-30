@@ -44,6 +44,15 @@ export const CVData = {
         icon: 'archive',
         items: [
           {
+            title: 'Lead Dev',
+            company: 'MAIF Vie',
+            description: '',
+            companyWebSite: 'https://www.maif.fr/',
+            companyMeta: 'Niort',
+            datesBetween: '2023 - ...',
+            descriptionTags: ['Java', 'Angular', 'Spring Boot', 'SQL', 'Git']
+          },
+          {
             title: 'Tech Lead',
             company: 'SMACL Assurances',
             description: 'Projets : CI/CD, Espace Intégration, Infrastructure As Code, Centralisation des logs. Encadrement d\'une équipe de 6 personnes.',
