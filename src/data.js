@@ -46,11 +46,11 @@ export const CVData = {
           {
             title: 'Lead Dev',
             company: 'MAIF Vie',
-            description: '',
+            description: 'Projet SORIM - réassurance',
             companyWebSite: 'https://www.maif.fr/',
             companyMeta: 'Niort',
             datesBetween: '2023 - ...',
-            descriptionTags: ['Java', 'Angular', 'Spring Boot', 'SQL', 'Git']
+            descriptionTags: ['Java', 'Angular', 'Spring Boot', 'Webflux', 'SQL', 'Git']
           },
           {
             title: 'Tech Lead',
