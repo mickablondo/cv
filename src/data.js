@@ -16,7 +16,7 @@ export const CVData = {
       {
         type: 'text',
         title: 'Profil',
-        content: 'Je suis actuellement Entrepreneur-Salarié au sein de Babel.Coop. Diplômé d\'Alyra, l\'école Blockchain, je recherche principalement des projets web3.',
+        content: 'Je suis actuellement Lead Dev au sein de MAIF Vie après plusieurs années passées en tant qu'Entrepreneur-Salarié au sein de Babel.Coop. Diplômé d\'Alyra, l\'école Blockchain, je recherche principalement des projets web3 sur mon temps libre.',
         icon: 'usertie'
       },
       {
